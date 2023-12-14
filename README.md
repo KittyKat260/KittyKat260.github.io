@@ -1,4 +1,6 @@
 # KittyKat260.github.io
+/docs
+
 https://bloxd.io/
 
 
